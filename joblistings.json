@@ -1,0 +1,218 @@
+[
+  {
+    "url": "https://apply.workable.com/coursestorm/j/C606DECFC3/",
+    "response": {
+      "job_location": "remoteMaine, United States",
+      "job_title": "Senior Software Engineer",
+      "job_description": "CourseStorm streamlines access to education by providing powerful class registration, enrollment management, and marketing tools that are simple for learners and educators to use. We’ve already connected over 1,000,000 students with education – and we’re growing fast. We’re seeking a motivated, curious, and skilled software engineer to help us build the future of our platform and amplify the impact we can have. You'll be a core member of the Product Team, working on projects to help expand CourseStorm's feature set and continue to refine its exceptional user experience. We're looking for someone who genuinely enjoys learning, listening, and collaborating to make software that people love to use. You'll be part of an energized startup environment filled with interesting challenges as an early part of our rapidly growing team.",
+      "company_description": "We believe that everyone is needed to build a better world through education and we are actively working to hire a diverse staff. The unique experiences, perspectives, and talents of our team members aren’t accessories – they are instrumental to our success and the impact we make. We welcome anyone with an open mind and an open heart to join us on this journey. CourseStorm is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, veteran status, or national origin.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has a strong technical skillset, their experience does not directly align with the job description. Additionally, their project experience does not demonstrate a clear understanding of building user-friendly software. However, their experience as a lead software engineering immersive resident and founder/owner of a personal training studio shows leadership and entrepreneurial skills."
+  },
+  {
+    "url": "https://apply.workable.com/regatta-solutions-group-inc/j/6F38AD7F39",
+    "response": {
+      "job_location": "remoteSan Francisco, California, United States",
+      "job_title": "Senior SailPoint Solutions Architect/Team Lead",
+      "job_description": "We have an immediate opening for an experienced Senior SailPoint Solutions Architect/Team Lead who will both develop and lead development activities, enhancements, fixes or new technologies to support Identity and Access Management (IAM) platforms that meet business requirements, policies, and standards...",
+      "company_description": null,
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate's resume shows experience in full stack software engineering, but there is no mention of experience with SailPoint or Identity and Access Management (IAM) platforms. While the candidate's technical skills are impressive, they do not align with the requirements of the job description. Therefore, the candidate receives a low score of 65."
+  },
+  {
+    "url": "https://apply.workable.com/creatunity-llc/",
+    "response": {
+      "job_location": "remote",
+      "job_title": "Sales Representative with e-commerce experience",
+      "job_description": null,
+      "company_description": "Creatunity LLC",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical background with experience in both front-end and back-end technologies. However, the resume does not provide any information on the candidate's sales experience or e-commerce experience, which are critical for the Sales Representative role. Therefore, the score is low as the fit with the job description is not perfect."
+  },
+  {
+    "url": "https://hired.com/job/software-engineer-front-end-growth-grammarly",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Software Engineer, Front-End (Growth)",
+      "job_description": "We're looking for an exceptional, experienced Software Engineer, Front-End to create, contribute to, and lead the Growth team's frontend engineering work by taking ownership of Grammarly's main website for user acquisition and blogging infrastructure.",
+      "company_description": "Grammarly is a provider of an English language writing-enhancement platform.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has a strong technical skillset, their project experience does not directly align with the job description. Additionally, their professional experience is not focused on software engineering. While their personal achievements are impressive, they do not demonstrate a strong fit for the role of Software Engineer, Front-End (Growth)."
+  },
+  {
+    "url": "https://hired.com/job/senior-software-engineer-massive-graph-processing-liveramp-inc",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Senior Software Engineer: Massive Graph Processing",
+      "job_description": "LiveRamp is an Identity technology company based in downtown San Francisco. Our core product provides a privacy-friendly way to combine identifiers a company may have for a customer. We on the Identity Engineering team maintain the graph processing engine that connects the billions of different identifiers for consumers and the devices they use online. Help us process this trillion edge graph as quickly and efficiently as possible.",
+      "company_description": "LiveRamp (formerly Acxiom Corporation) is a company providing a data connectivity platform.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has experience as a full stack software engineer, their resume does not demonstrate experience with massive graph processing, which is a key requirement for the job. Additionally, their experience is primarily focused on web development and fitness coaching, which may not be directly applicable to the job. While the candidate has some relevant technical skills, their lack of experience with graph processing and identity technology may make them a less than ideal fit for the role."
+  },
+  {
+    "url": "https://hired.com/job/software-engineer-security-for-customer-identity-platform",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Software Engineer - Security for Customer Identity Platform",
+      "job_description": "Uber's Customer Identity Platform (CIP) team provides seamless and secure customer identity experiences at scale for Uber's and its partners by offering Identity SaaS. The team enables sign-up, login and identity management for uber applications (rider, driver, eats, freight, elevate etc.) and external integrations (Yandex, Google, Facebook etc.) by providing a frictionless, safe and secure means of allowing customers and businesses to access Ubers services. The CIP engineering team consists of Security Software Engineers, Backend Software Engineers, Web Frontend Engineers, Mobile Engineers, Data Engineers and SRE/DevOPS.",
+      "company_description": "Uber is a provider of a mobile application connecting passengers with drivers for hire.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has experience as a full stack software engineer, their resume does not demonstrate a strong fit for the specific role of Software Engineer - Security for Customer Identity Platform at Uber. While they have experience with some relevant technologies such as NodeJS and RESTful API, they do not have any experience with security-specific technologies or experience working on a team focused on security. Additionally, their project experience does not demonstrate a strong focus on security. Therefore, I cannot give a high score for fit with the job description."
+  },
+  {
+    "url": "https://hired.com/job/web-developer-5-senior-front-end-development-engineer-wells-fargo-api-channel",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Web Developer 5 - Senior Front End Development Engineer",
+      "job_description": "Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo's more than 70 million global customers. Wells Fargo Digital Channel Team is looking for a talented and passionate Front-end developer to support its software engineering team demands. The successful candidate joins in our Front-end development team to build interactive, responsive and device specific 'client-side' of our web applications. Also, the candidate leverages our existing Content Management system and new front end technologies to build rich digital web applications to our customers. The successful candidate acts as an individual contributor and/or team lead for the most complex front end applications and new brand design initiatives. Leverages available technologies to design, develop and maintain reusable UI components. Works on the most complex design initiatives. Establishes standards and determines UI framework/libraries for different kind of UI application flow. Takes responsibility to guide and mentor the junior staff in the software development, testing, and implementation process.",
+      "company_description": "Wells Fargo is a banking and financial services holding company.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset with experience in both front-end and back-end development, as well as experience in project management. However, the job description specifically calls for experience in building interactive, responsive, and device-specific 'client-side' web applications, and the candidate's project experience does not highlight this type of work. Additionally, the candidate's professional experience is not directly related to the job title or description. Overall, the candidate's skills and experience do not align perfectly with the job requirements, resulting in a lower score."
+  },
+  {
+    "url": "https://hired.com/job/senior-software-engineer-storage-platform-team",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Senior Software Engineer - Storage Platform Team",
+      "job_description": "As a backend engineer on the Storgate team, you'll develop systems that are the interface between Uber's application developers and the underlying storage systems offered by our Storage Platform team (of which Storage is a part).",
+      "company_description": "Uber is a provider of a mobile application connecting passengers with drivers for hire.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has experience with many relevant technologies, there is not enough information on their resume to determine if they have experience specifically with backend development for storage systems. Additionally, their project experience is focused on full-stack development rather than backend development. Therefore, the score is lower than it would be for a candidate with more relevant experience."
+  },
+  {
+    "url": "https://hired.com/job/senior-machine-learning-engineer-webex-intelligence-cisco",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Senior Machine Learning Engineer - Webex Intelligence",
+      "job_description": "The workplace of the future will be powered by AI and the Cisco Webex Intelligence team is making that a reality. Two fast-moving startups (MindMeld and Accompany) were recently acquired by Cisco to disrupt and boost the industry's #1 Collaboration portfolio. We aim to build the next generation of collaboration software & devices - from digitizing the in-meeting experience, enhancing distributed team efficiency and improving all aspects of people connection.The team develops innovative experiences by leveraging state-of-the-art machine learning, conversational AI and information retrieval techniques. One of the projects is Webex Assistant, the industry's most advanced voice-driven virtual assistant for meetings and collaboration. As a Machine Learning Engineer, you will be responsible for mentoring, leading and coaching junior members of the team and making key architectural decisions on the direction of our machine learning platform.",
+      "company_description": "Cisco is a global company that designs and sells a broad range of technologies across networking, security, collaboration, applications, and the cloud.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has a strong technical background, their experience and skills do not align with the job description for a Senior Machine Learning Engineer. The candidate's experience is primarily in full-stack software engineering and coaching, with limited experience in machine learning and AI. Additionally, the candidate's projects do not demonstrate experience with state-of-the-art machine learning, conversational AI, or information retrieval techniques, which are key components of the job description. Therefore, the candidate receives a low score of 65."
+  },
+  {
+    "url": "https://hired.com/job/junior-robotic-process-automation-rpa-developer-first-republic-bank",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Junior Robotic Process Automation (RPA) Developer",
+      "job_description": "The Jr. Robotic Process Automation (RPA) Developer will be responsible for developing and delivering automated solutions across the Bank. The Jr. RPA Developer will work closely with the CPI Team to ensure RPA applications meet business and technical requirements, are maintainable and scalable and meet stated performance benchmarks.",
+      "company_description": "First Republic Bank offers private banking, private business banking and private wealth management services.",
+      "compensation": null
+    },
+    "grade": 60,
+    "reasoning": "While the candidate has a strong technical background, their resume does not demonstrate any experience or skills related to robotic process automation (RPA). Additionally, their project experience and professional experience do not align with the job description. Therefore, the candidate receives a low score of 60."
+  },
+  {
+    "url": "https://hired.com/job/junior-project-manager-cisco",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Junior Project Manager",
+      "job_description": "Cisco Cloud Security Group is a leading provider of Cloud Security and DNS services, enabling the world to connect to the Internet with confidence on any device, anywhere, anytime.",
+      "company_description": "Cisco is a global company that designs and sells a broad range of technologies across networking, security, collaboration, applications, and the cloud.",
+      "compensation": null
+    },
+    "grade": 60,
+    "reasoning": "While the candidate has a strong technical background and experience as a Lead Software Engineering Immersive Resident, their resume does not demonstrate any experience in project management or cloud security. Therefore, the candidate does not meet the requirements for the Junior Project Manager position and receives a low score."
+  },
+  {
+    "url": "https://hired.com/job/staff-machine-learning-engineer-uber-ai",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Staff Machine Learning Engineer, Uber AI",
+      "job_description": "A Staff-level Engineering role at Uber is special. Engineers at this level represent the top 5% of Engineers at Uber and will have a deep impact across a wide variety of business and technology decisions spanning multiple projects and at times, locations. We are looking for an experienced technologist who can guide signal processing and machine learning research projects, leveraging our enormous raw location and sensor data streams from driver phones to provide a reliable platform for other teams to understand the physical world. You will help shape the company's ML strategy, collaborating with multiple teams including Safety, Marketplace, and Maps. As a Machine Learning engineer on the team, you will be working with a wide range of sensor data (location, motion, camera, etc) to develop inferences that enable some of the most important parts of Uber's business - Fares, Matching, Safety, Pickup Experience, and more.",
+      "company_description": "Uber is a provider of a mobile application connecting passengers with drivers for hire.",
+      "compensation": null
+    },
+    "grade": 60,
+    "reasoning": "While the candidate has a strong technical background, their experience and projects do not align well with the job description. There is no mention of signal processing or machine learning research projects, and the candidate's experience is primarily focused on full-stack development and coaching. Additionally, the candidate's personal section does not provide any relevant information to the job. Overall, the candidate's resume does not meet the high standards required for a Staff Machine Learning Engineer at Uber AI."
+  },
+  {
+    "url": "https://apply.workable.com/j/24C77B8D29",
+    "response": {
+      "job_location": "San Francisco, California, United States",
+      "job_title": "Staff Software Engineer - SQL Query Engine",
+      "job_description": "Bodo exists to change the face of analytics computing; to accelerate performance, scale, and simplicity for data-intensive applications. Ultimately, we strive to change how the world will compute. And we’re looking for ambitious, hungry, talented engineers to help drive this change. Our technology provides automatic parallelization and massive scale for analytics workloads, improving performance by 10x-100x, yet reducing aggregate operating expenses. This allows data engineers and data scientists to focus on solving business problems instead of dealing with the scalability and performance of their code. Bodo’s mission has been endorsed by investments from Dell Technologies, from data platform providers such as Snowflake, and from special-purpose hardware providers such as Xilinx. Not to mention by ecstatic adoption by Fortune-10 customers. Bodo is the culmination of years of research in academia and industry and brings High-Performance Computing (HPC) to data analytics for the first time. This is an opportunity to work with the creators of the first auto-parallelization compiler technology, which has long been a “holy grail” for researchers working on simplifying computing performance. Our mission - and hopefully yours - is to democratize access to parallel computing, and to accelerate data insights, ML, and AI in ways the industry can’t yet imagine. Join the team!Bodo is looking for a Staff+ Software Engineer with a passion for large-scale SQL query engines to develop Bodo’s revolutionary data platform. This requires a strong entrepreneurship spirit, extensive software design experience, and the ability to turn challenging technical ideas into reality. As a senior software engineer, you will be crafting software and services that are orders of magnitude faster than competitors while also much easier to use. We believe our technology is going to have a significant impact on the future of big data analytics.",
+      "company_description": "Bodo exists to change the face of analytics computing; to accelerate performance, scale, and simplicity for data-intensive applications. Ultimately, we strive to change how the world will compute. Our mission - and hopefully yours - is to democratize access to parallel computing, and to accelerate data insights, ML, and AI in ways the industry can’t yet imagine.",
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "The candidate has a strong technical background, but their experience does not align with the job description. They lack experience with large-scale SQL query engines, which is a key requirement for the role. Additionally, their project experience is focused on full-stack web development, which is not directly relevant to the job. While the candidate has some relevant technical skills, their lack of experience with the specific technologies and requirements of the job make them a poor fit for the role."
+  },
+  {
+    "url": "https://apply.workable.com/ecp-123/j/DD084E8345",
+    "response": {
+      "job_title": "Product Manager",
+      "job_location": "remoteMilwaukee, Wisconsin, United States",
+      "job_description": "ECP is a market-leading SaaS software solution that enables senior living communities to better care for their residents. ECP is used in over 2,000 communities around the world. We're looking to further expand by increasing the number of customers that use our software and increasing the scope of how we serve our customers by developing and releasing new products. We're looking for an experienced product manager that is excited to make an impact at a fast-growing 60-person company. This role will report to our Director of Product Management.",
+      "company_description": null,
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "While the candidate has a strong technical background, their resume does not demonstrate experience in product management or a clear understanding of the senior living industry. Additionally, their project experience is focused on software development rather than product management. Therefore, the candidate does not meet the high standards required for this Product Manager role."
+  },
+  {
+    "url": "https://hired.com/job/senior-software-engineer-search-data-management-liveramp-inc",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Senior Software Engineer, Search (Data Management)",
+      "job_description": "At LiveRamp, we are on a quest to build the most flexible and scalable data marketplace. The platform underlying the marketplace ingests, analyzes, enriches and transforms tens of petabytes of data per day and then delivers the enriched data to our customers. Powering it is a massive Hadoop cluster with over 80K cores and counting. The cluster hosts almost 16 petabytes of data, and our ability to incorporate insights about that data into our search capabilities is crucial to our success.We are seeking a passionate and creative engineer to build and scale our core backend search function. You will be working on areas ranging from processing pipelines to data services and the search platform behind our scalable data marketplace. You will be working on tackling challenging problems in information retrieval and will be continuously innovating on core search areas such as indexing, query understanding, query execution, search relevancy, predictive search, metrics tracking and scalability to name a few.You will:* Create software to automate the distillation of massive amounts of data down into understandable nuggets of information.* Create performance metrics and alerts for Elasticsearch while designing, refining and tuning search algorithms.* Create new and innovative ways to power data discovery for our customers while working in collaboration with Data Scientists, Engineers and other teams.* Prototype solutions to improve our data processing architecture.About you:* You have experience building a custom search stack, or solid experience with open source technologies like Lucene, Solr or ElasticSearch.* You have experience writing large, scalable, distributed search solutions for high-traffic applications.* You have 3+ years of experience with full-text search engines such as SOLR, Elasticsearch, or Lucene.* You have experience debugging the root cause of issues related to search.* You have experience with complex search indexing tools such as Lucene, Solr, or Elasticsearch* You love mentoring junior engineers and deploying best practices* You have demonstrable experience building and deploying an enterprise grade search solution.* Extensive experience with data processing platforms such as Hadoop, Spark, Hive or Pig* You are proficient with Java or have experience within the JVM ecosystem.* Should be able to identify ElasticSearch query optimizations and in turn address any ES performance bottlenecks* Experience with Cloud providers like AWS, Azure; GCP preferableBonus points:* Experience with modern datastores such as MongoDB, Cassandra, Riak, Azure Cosmos DB, Aerospike* Stream processing - Spark streaming, Apache Storm, Flink* Experience with designing and implementing interfaces and infrastructure for large volume services and APIsBenefits:* People. Work with talented, collaborative, and friendly people who love what they do.* Food. Enjoy catered meals, boundless snacks, and the occasional food truck.* Fun. We host events such as game nights, happy hours, camping trips, and sports leagues.* Stock. Every employee is a stakeholder in our future. Health and Saving. Receive the benefits of comprehensive health, dental, vision and disability insurance along with a 401k matching plan.* Location. Work in the heart of San Francisco and take advantage of our commuter benefits.More about us:LiveRamp powers exceptional experiences by making it safe and easy to connect the world's data, people, and applications. We are the industry pace-setter and one of the fastest-growing SaaS businesses anywhere-the enabling product behind many of the world's biggest brands and technology platforms.We recently debuted on the New York Stock Exchange (ticker: RAMP) as an independent public company. Our fundamentals are exceptional: 30%+ annual revenue growth, $1.7B in cash, no debt, and over 600 customers. And we're growing our team at a record pace. Want to build the future with 750 savvy, curious LiveRampers across the U.S., Europe, and APAC? Join us!There is so much more that we want to build and that we could continue to improve. We value strong engineers who are agile enough to hit the ground running and tackle challenges.To all recruitment agencies: LiveRamp does not accept agency resumes. Please do not forward resumes to our jobs alias, LiveRamp employees or any other company location. LiveRamp is not responsible for any fees related to unsolicited resumes.LiveRamp is an affirmative action and equal opportunity employer (AA/EOE/W/M/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, disability, sexual orientation, gender identity, genetics or other protected status. Qualified applicants with arrest and conviction records will be considered for the position in accordance with the San Francisco Fair Chance Ordinance.",
+      "company_description": "LiveRamp (formerly Acxiom Corporation) is a company providing a data connectivity platform.",
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "The candidate's resume shows experience with some relevant technologies such as Node.js, Express, PostgreSQL, and AWS, but lacks experience with search engines such as Elasticsearch, Solr, or Lucene. Additionally, the candidate's project experience does not demonstrate experience with search engines or data processing platforms such as Hadoop, Spark, Hive or Pig. While the candidate's experience as a Lead Software Engineering Immersive Resident and Founder & Owner of SF Iron are impressive, they do not directly relate to the job description. Overall, the candidate's resume does not meet the high standards required for the Senior Software Engineer, Search (Data Management) position."
+  },
+  {
+    "url": "https://hired.com/job/security-analyst-incident-response",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Security Analyst - Incident Response",
+      "job_description": "The Security Analyst - Incident Response will perform the computer incident response function of the UBER-Security Intrusion & Response team. This analyst will work closely with the SRI Managers to execute the strategic vision for the team and help mature a constantly evolving computer network defense program. This analyst provides procedural expertise on a day-to-day basis, and is responsible being responsive and timely in analyzing & responding to critical events.",
+      "company_description": "Uber is a provider of a mobile application connecting passengers with drivers for hire.",
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "The candidate's resume showcases experience as a full stack software engineer and lead software engineering immersive resident, but lacks specific experience in incident response or security. While the candidate's technical skills are impressive, they do not align closely enough with the job description to warrant a higher score. Additionally, the candidate's professional experience is focused on coaching and personal training, which is not directly relevant to the position. Overall, the candidate's resume does not demonstrate a strong fit for the Security Analyst - Incident Response role."
+  },
+  {
+    "url": "https://hired.com/job/principal-ai-researcher-autodesk-ai-lab",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Principal AI Researcher, Autodesk AI Lab",
+      "job_description": "We have an opening in our newly formed Autodesk AI Lab based in San Francisco at Pier.9!The work we do at Autodesk gets to touch nearly every person on the planet. By building tools for designing buildings, developing machines and even the latest movie we get to influence and empower some of the most creative people in the world to solve problems that matter. As part of that we also get to tap into and realize the potential of the rich streams of data from those worlds. Perhaps it's real-time sensor data from cars or 3D scans of buildings as they are being constructed. In other cases, it's about learning the language of 3D modeling from watching designers and then training the future intelligent design tools. Or, it's about automating and refining how things are physically made in the world, through advanced robotics, other times through controlling 3D printers or sophisticated milling machines.This is the ideal environment for applying advanced Machine Learning techniques to: learn from an incredibly rich world of data; predict and synthesize solutions typically beyond human abilities; and to create new levels of automation in how things are physically built. Given the broad variety of AI problems faced by Autodesk we created a centralized facility to concentrate the research and engineering work behind these solutions … The Autodesk AI Lab. The Lab brings together AI Researchers, Software Engineers and specialists in various problem areas to create novel AI solutions in all the areas mentioned above and more. They work closely with experts in: geometric modeling, simulation systems, robotics, knowledge representation, sensing and computer vision, industrial manufacturing and construction techniques.The AI Lab works with both product teams and customers to realize these AI solutions, getting access to massive data streams and seeing our AI models come to life in the field!",
+      "company_description": "With Autodesk software, you have the power to Make Anything. The future of making is here, bringing with it radical changes in the way things are designed, made, and used. It's disrupting every industry: architecture, engineering, and construction; manufacturing; and media and entertainment. With the right knowledge and tools, this disruption is your opportunity. Our software is used by everyone - from design professionals, engineers and architects to digital scientists, students and hobbyists. We constantly explore new ways to integrate all dimensions of diversity across our employees, customers, partners, and communities. Our ultimate goal is to expand opportunities for anyone to imagine, design, and make a better world.",
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "While the candidate has a strong technical background, their resume does not demonstrate experience or expertise in AI research, which is a key requirement for the Principal AI Researcher role at Autodesk AI Lab. Additionally, the candidate's project experience and professional experience do not align with the job description. Therefore, the candidate receives a low score of 45."
+  },
+  {
+    "url": "https://hired.com/job/computational-linguist-grammarly",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Computational Linguist",
+      "job_description": "At Grammarly, we believe that everyone should be heard and understood. We know that clear and effective communication improves people's lives-and we want to help everyone improve their communication. That's why we've built an AI-powered writing assistant: to help the world's 2 billion English speakers feel more confident in communicating clearly and effectively. So far, we've created a product used by more than 20 million people around the world every day. Join us to reach the next 100 million.To get to that goal, we're looking for a curious Computational Linguist with an interest in Natural Language Processing, a passion for English, and an excellent knowledge of grammar. The role is vital to our ambitious journey to help people worldwide improve their communication, and the work will influence our product roadmap and help chart the course for the future of our company.The teamTo process natural language texts properly, we need to understand how the language functions, how it is learned, and how it evolves. This role will join our team of computational linguists and research engineers working with complex algorithms for detecting and correcting errors, ambiguities, and inefficiencies in natural language texts. The complexity of our technical challenges is growing exponentially, and we're excited about growing and diversifying our team.At Grammarly, our impact comes from a strong culture with highly engaged, highly motivated team members. We hire exceptional people and reward them with trust, autonomy, mentorship, and the freedom to grow into their roles. We're a passionate, growing team on a mission to improve lives by improving communication. If you're up for the challenge, we would love to meet you!Your impact* Use rule-based and statistical methods in NLP to develop error-correction,style-improvement, consistency, and clarity checks as well as tone and sensitivity suggestions.* Conduct research on a variety of tasks, work with large corpora, and design new algorithms.* Research different modes, genres, and styles of writing to improve Grammarly's performance.* Improve current text processing tools and implement new ones.* Coordinate resource-creation projects.* Mentor junior computational linguists.* Deepen knowledge and skills in NLP, and develop ML skills, depending on career trajectory.This is the right opportunity for you if* Embody our E.A.G.E.R values (Ethical, Adaptable, Gritty, Empathetic, and Remarkable).* Hold an MS or PhD in Linguistics, Computational Linguistics, or another linguistics-related discipline.* Are fluent in English and have a great understanding of English grammar, syntax, semantics, and usage, especially for writing.* Have at least three years of experience in Computational Linguistics/NLP.* Have substantial experience in at least one programming language as well as working knowledge of NLP libraries and understanding of statistical methods in NLP.* Value and practice strong problem-solving, critical thinking, and analytical skills. Experience teaching English as a first or a second language is preferred.It almost goes without saying that we'll offer you* Big goals, challenging work, fast learning cycles, practical training, and meaningful feedback.* Project exposure and ownership that impact our world, users, product, colleagues, and business.* Health care, 401(k), communication coaching, and great coworkers!",
+      "company_description": "Grammarly is a provider of an English language writing-enhancement platform.",
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "The candidate's resume showcases experience in full stack software engineering, but lacks any mention of computational linguistics or natural language processing. While the candidate's technical skills are impressive, they do not align with the requirements of the job description. Therefore, the candidate receives a low score of 45."
+  }
+]

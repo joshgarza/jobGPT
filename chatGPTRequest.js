@@ -1,5 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
+// const resume = fs.readFileSync("./editedResume.txt", "utf8");
 const resume = fs.readFileSync("./resume.txt", "utf8");
 
 let backoffTime = 2000; // start with 1 second
@@ -15,13 +16,12 @@ async function makeRequest(data) {
 
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     try {
-      console.log("Making request to OpenAI");
       const result = await axios.post(apiUrl, data, { headers });
       backoffTime = 2000; // reset backoff time if request is successful
       return result.data.choices[0].message.content;
     } catch (error) {
       console.log(
-        `Request failed (attempt ${attempt}). Waiting ${backoffTime}ms before next attempt.`
+        `\nRequest failed (attempt ${attempt}).\nError log: ${error}\nWaiting ${backoffTime}ms before next attempt.\n`
       );
       await new Promise((resolve) => setTimeout(resolve, backoffTime));
       backoffTime = Math.min(backoffTime * 2, maxBackoffTime); // double backoff time for next attempt, up to a maximum
@@ -32,6 +32,7 @@ async function makeRequest(data) {
 }
 
 const parseJobInformation = async (scrapedText) => {
+  console.log(`Parsing job information...`);
   const data = {
     model: "gpt-3.5-turbo",
     messages: [
@@ -45,12 +46,14 @@ const parseJobInformation = async (scrapedText) => {
         content: `Your response should only be valid JSON. Fill in the following values and use the exact property names listed: job_location, job_title, job_description, company_description, and compensation. If you cannot find a piece of information, fill in the value as null. For the job location, only save the value as a string, NOT as an inner object. Here is a job opening: ${scrapedText}`,
       },
     ],
+    temperature: 0,
   };
 
   return await makeRequest(data);
 };
 
 const rankJobsByRelevance = async (job_title, job_description) => {
+  console.log(`Ranking jobs by relevance...`);
   const data = {
     model: "gpt-3.5-turbo",
     messages: [
@@ -69,12 +72,57 @@ const rankJobsByRelevance = async (job_title, job_description) => {
           'Parse the final response into a JSON object with properties "grade" and "reasoning".',
       },
     ],
+    temperature: 0,
+  };
+
+  return await makeRequest(data);
+};
+
+const offerResumeSuggestions = async (grade, reasoning) => {
+  console.log(`Writing resume suggestions...`);
+  const data = {
+    model: "gpt-3.5-turbo",
+    messages: [
+      {
+        role: "system",
+        content:
+          "You are a career counselor with 20 years of experience helping job seekers improve their resumes. Your goal is to provide constructive suggestions to help a candidate increase their resume score.",
+      },
+      {
+        role: "user",
+        content: `The candidate's resume was given a grade of ${grade} with the following reasoning: ${reasoning}. Based on this information, how can the resume be improved?`,
+      },
+    ],
+    temperature: 0,
+  };
+
+  return await makeRequest(data);
+};
+
+const giveLineByLineFeedback = async (suggestions, job_description) => {
+  console.log(`Creating line by line resume feedback...`);
+  const data = {
+    model: "gpt-3.5-turbo",
+    messages: [
+      {
+        role: "system",
+        content:
+          "You are a career counselor with 20 years of experience helping job seekers improve their resumes. Your goal is to provide specific alterations to a candidate's resume based on suggestions you have generated.",
+      },
+      {
+        role: "user",
+        content: `You have generated these suggestions: ${suggestions} based on this job description: ${job_description}. Rewrite the candidates resume based on your expert opinion. Do not lie about any projects or experience the candidate does not explicitly state in their resume. Candidates resume: ${resume}.`,
+      },
+    ],
+    temperature: 0,
   };
 
   return await makeRequest(data);
 };
 
 module.exports = {
+  offerResumeSuggestions,
+  giveLineByLineFeedback,
   parseJobInformation,
   rankJobsByRelevance,
 };
