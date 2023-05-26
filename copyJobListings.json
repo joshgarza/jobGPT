@@ -1,0 +1,144 @@
+[
+  {
+    "url": "https://apply.workable.com/striim/j/2DB583F298/",
+    "response": {
+      "job_location": "Palo Alto, California, United States",
+      "job_title": "Software Engineer - Growth",
+      "job_description": "We are looking for a Software Engineer to work on the systems that power growth at Striim. You’ll be part of a cross-functional team that’s responsible for full software development life cycle including the Striim's data infrastructure and multi-tenant sandbox service. A Software Engineer should be comfortable around both front-end and back-end development languages, frameworks and third-party libraries. We are looking for a team player with a solution-oriented mindset and creative drive for visual design and utility.",
+      "company_description": "We offer Competitive salary and pre-IPO stock options Comprehensive health care plans (medical, dental and vision), including medical and dependent FSA Retirement plan (401K) Paid Time Off (Vacation, Sick & Public Holidays) The chance to contribute to and shape an upbeat, fully engaged culture We are an equal-opportunity employer, and we value diversity at our company. All applicants are considered for employment without attention to race, color, religion, sex, age, marital status, sexual orientation, gender identity, national origin, veteran status, or disability status.",
+      "compensation": "$120,000 - $140,000 USD on an annualized basis"
+    },
+    "grade": 75,
+    "reasoning": "The candidate has a strong technical skillset with experience in both front-end and back-end development languages, frameworks, and third-party libraries. They have experience with AWS, testing/deployment tools, and developer tools. However, their project experience is not directly related to the job description, and their professional experience is not in software engineering. Additionally, their personal section is not relevant to the job. Overall, the candidate has potential but may not be the best fit for the role based on their experience."
+  },
+  {
+    "url": "https://hired.com/job/software-engineer-front-end-growth-grammarly",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Software Engineer, Front-End (Growth)",
+      "job_description": "We're looking for an exceptional, experienced Software Engineer, Front-End to create, contribute to, and lead the Growth team's frontend engineering work by taking ownership of Grammarly's main website for user acquisition and blogging infrastructure.",
+      "company_description": "Grammarly is a provider of an English language writing-enhancement platform.",
+      "compensation": null
+    },
+    "grade": 75,
+    "reasoning": "The candidate has a strong technical skillset with experience in React, Next.js, NodeJS, Express, and AWS. However, the candidate's project experience does not directly align with the job description, and there is no mention of experience with user acquisition or blogging infrastructure. Additionally, while the candidate has experience leading and supervising junior engineers, there is no mention of experience leading a team in a growth-focused role. Overall, the candidate's technical skills are strong, but there are some gaps in their experience that may make them less suitable for this specific role."
+  },
+  {
+    "url": "https://apply.workable.com/wizebank/j/17FE19FDDB/",
+    "response": {
+      "job_location": "remoteVancouver, British Columbia, Canada",
+      "job_title": "Junior Front-End Engineer",
+      "job_description": "Wizebank is looking for a talented front-end developer to help us build best-in-class software and financial tools that help online education businesses better manage and grow their education empires. As one of our early engineering hires, you will have the opportunity to take complete, end-to-end ownership of projects and play a critical role in shaping our future products and processes.",
+      "company_description": "Wizebank has built the industry’s first “Learn Now, Pay Later” solution specifically designed to help world-class course creators, educators, and coaches sell more effectively. We’re trusted by our partners to drive meaningful improvements in their business, and we work tirelessly to do just that. Founded in 2021, Wizebank has gone from pre-product to helping our partners generate millions in monthly sales across tens of thousands of customers in a matter of months. We're backed by Rhino Ventures, Panache Ventures, and industry leaders like Greg Smith (CEO, Thinkific), Tim Vipond (Founder, Corporate Finance Institute), Andrew Wilkinson (Co-Founder, Tiny), and Pat Flynn (Founder, Smart Passive Income).",
+      "compensation": {
+        "Recent Financing": "We closed a large financing in 2022 and we are actively looking to expand our team to deliver best-in-class financial products to our customers at scale.",
+        "Strong Traction": "We are experiencing rapid growth and your work will directly impact thousands of businesses around the world.",
+        "Autonomy & Ownership": "You’ll have the opportunity to create your own path and own your work.",
+        "Impact": "You will get to shape the culture of Wizebank. “The early team you build is the company you build.” Your impact will be immediate and lasting.",
+        "Competitive Compensation": "We reward great work and want to attract the best talent.",
+        "Work From Home Stipend": "We cover the essentials including laptops, accessories, and more.",
+        "Learning & Development Stipend": "We provide a personal development budget covering courses, books, events and more.",
+        "Extended Health Care Benefits": "Comprehensive benefit plan and wellness spending account."
+      }
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset with experience in both front-end and back-end technologies. However, the candidate's experience is more focused on building web applications rather than financial tools. Additionally, the candidate's professional experience is not directly related to the job title. While the candidate has some relevant experience, it is not a perfect fit for the job description."
+  },
+  {
+    "url": "https://apply.workable.com/atlasreality/j/8F69435D82/",
+    "response": {
+      "job_location": "remoteCedar Park, Texas, United States",
+      "job_title": "Junior Platform Engineer",
+      "job_description": "Atlas Reality, Inc. is seeking a Junior Platform Engineer to join their team (Remote). The ideal candidate is an effective problem solver who can quickly pick up on new technologies and has experience with DevOps platforms such as ADO, GitHub, etc. The candidate should have at least one year of experience with Azure cloud services, and ideally some software development experience, preferably in C#.",
+      "company_description": "Atlas Reality, Inc. is a company that builds location-based mobile games that create a virtuous cycle between the real and virtual worlds. Our mission is to deliver immersive gaming experiences that utilize real-world locations to enhance player engagement.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong background in full-stack development and has experience with several relevant technologies such as React, Node.js, and AWS. However, the candidate only has one year of experience with Azure cloud services, which is a requirement for the job. Additionally, the candidate's experience is focused on software development, whereas the job description emphasizes DevOps platforms. Overall, the candidate's skills and experience do not align perfectly with the job requirements, resulting in a lower score."
+  },
+  {
+    "url": "https://apply.workable.com/previse/j/2436B96D49/",
+    "response": {
+      "job_location": "remoteLondon, England, United Kingdom",
+      "job_title": "Data Engineer",
+      "job_description": "As a Data Engineer, you will be responsible for assisting in the design, development, and maintenance of our data processing systems. You will work closely with senior, experienced data scientists, data engineers, software developers and analysts to understand their data requirements and help build robust and efficient data pipelines to support their work. You will also help to ensure the quality, accuracy, and security of data throughout its lifecycle.",
+      "company_description": "Small and medium size businesses are the lifeblood of the economy. Around the world, they supply vital goods and valuable services. Powering partnerships, increasing innovation, and driving progress. But when it comes to getting hold of cash, these businesses frequently suffer. Credit and working capital is expensive and difficult to access. It causes existential turmoil and huge emotional distress. Growth is restricted, and economies suffer as a result. That’s why we started Previse. We use advanced machine learning and AI with rich business data, to predict future revenue probability.  This decisioning capability is used to re-invent finance solutions for businesses. Previse is building the infrastructure to connect millions of businesses with billions of dollars of finance, in ways that are otherwise not possible. This is smarter finance, driven by data. Helping cash flow so businesses can grow.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has a strong technical background and experience as a full stack software engineer, their resume does not demonstrate a clear fit for the role of Data Engineer. The candidate's experience with data processing systems is not highlighted, and their project experience is focused on web development rather than data engineering. Additionally, their professional experience is not directly related to data engineering. Therefore, the candidate receives a score of 65."
+  },
+  {
+    "url": "https://apply.workable.com/speexx/j/06E33B4AD5/",
+    "response": {
+      "job_location": "remote",
+      "job_title": "Junior Quality Assurance Engineer (m/f/d)",
+      "job_description": "At Speexx, we are building the future of learning - Speexx is the digital coaching platform for language training, business coaching and skills assessment in large international organizations. We use groundbreaking AI and a global network of certified top coaches to help large organizations bring out the best in their people. We strive every day to offer our employees a workplace environment that fosters inclusion and a sense of belonging, where everyone feels recognized, valued, and respected. And we are looking for curious and motivated individuals to join the team and grow with us. If this sounds like you – what are you waiting for? Apply now for the position of Quality Assurance Engineer (m/f/d) - remoteThe ideal candidate will be working closely with the Product Management and Product Development teams to assure that new products and releases demonstrate readiness and meet requirements and specifications.We are looking for someone who can be flexible to work in different product lines and support various parts of the business. This is a highly dynamic role as it requires handling the pressure of multi-tasking and working on some of the most challenging projects.What you will do at Speexx  Assure the      quality of the      products within an agile development environment  Contribute to continuous improvement of the products and tools  Participate through the whole product life cycle, from specification to deployment  Prepare and execute test plans and test cases for new      features and products  Support root cause      analysis and the implementation of      corrective actions  Become an expert on the product and act as a consultant      in the team What we look for  University degree in Software Engineering or similar qualification Special attention to details, perfectionist and logical mindset Ability to define problems, collect data, establish facts and draw valid conclusions Eager to work in a lively multicultural team where people are passionate about technology and learning Fluency in Spanish and strong English skills Knowledge of databases (SQL) and programming is a plus What you can expect at Speexx: A highly international and agile environment in which you collaborate with amazing team members from offices and locations around the globe, including Munich, Madrid, Milan, Paris, Sao Paulo and Shanghai. Rooted in an environment of curiosity and learning, you would be joining a leading company that is proud to be shaping the future of digital learning and is undoubtedly one of the best places to work in the industry!   In addition you will experience:  Flat hierarchies and short decision-making paths  Flexible working hours and home office options for a good work-life balance   An open feedback culture as well as freedom paired with taking over responsibility from an early stage   Free access to the best language courses in the world!  Modern hardware and software for hassle-free work   Interested? Just hit the apply button and we´ll take it from there. We are looking forward to hearing from you! For additional questions, send an email to: jobs@speexx.com",
+      "company_description": "At Speexx, we are building the future of learning - Speexx is the digital coaching platform for language training, business coaching and skills assessment in large international organizations. We use groundbreaking AI and a global network of certified top coaches to help large organizations bring out the best in their people. We strive every day to offer our employees a workplace environment that fosters inclusion and a sense of belonging, where everyone feels recognized, valued, and respected.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has a strong technical background and experience as a Lead Software Engineering Immersive Resident, their resume does not demonstrate a clear fit for the Junior Quality Assurance Engineer role. Additionally, the job description requires fluency in Spanish, which is not mentioned in the candidate's resume. Therefore, the candidate receives a score of 65."
+  },
+
+  {
+    "url": "https://startup.jobs/junior-software-engineer-beyondtrust-4413556",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Junior Software Engineer",
+      "job_description": "As a Junior Software Engineer, you will play an integral part in our company’s product development process and focus on kernel-level software development for our native Windows Desktop Application. You will play a key role in creating stable and scalable software security products that protect global companies from growing cyber threats. If you're passionate about continual learning and have a creative mind that thrives on the challenge of solving valuable problems, then this role could be a great match for you!",
+      "company_description": "BeyondTrust is the worldwide leader in intelligent identity and access security, empowering organizations to protect identities, stop threats, and deliver dynamic access to empower and secure a work-from-anywhere world. Our integrated products and platform offer the industry's most advanced privileged access management (PAM) solution, enabling organizations to quickly shrink their attack surface across traditional, cloud, and hybrid environments.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has a strong technical skillset, their experience does not align perfectly with the job description. They have experience with front-end and full-stack development, but the job description specifically calls for kernel-level software development for a native Windows Desktop Application. Additionally, their professional experience is not focused on software engineering, but rather on coaching and personal training. While their personal achievements are impressive, they do not directly relate to the job requirements. Overall, the candidate shows potential but may not be the best fit for this particular role."
+  },
+  {
+    "url": "https://startup.jobs/jr-software-engineer-secret-clearance-eligible-rackner-2-4429697",
+    "response": {
+      "job_title": "Jr. Software Engineer",
+      "job_location": "Remote",
+      "job_description": "The Jr. Software Engineer will provide programming services for a variety of specific systems and business, military, scientific, or commercial applications. Participate in systems analysis, design definition, software development, system test, implementation, and maintenance. The Jr, Software Engineer will analyze coding problems and develop improvements to procedures. Will design, develop, troubleshoot, debug, and implement software code(such as HTML, CGI, and Javascript).",
+      "company_description": "Rackner is a software consultancy that builds cloud-native solutions for startups, enterprises, and the public sector. We are an energetic, growing consultancy with a passion for solving big problems for both startups and enterprises. We enable digital transformation for large organizations through the newest in distributed technologies as we are laser focused on end-to- end application development, DevSecOps, AI/ML and systems architecture and our methodology focuses on cloud-first and cost-effective innovation. Our customers hail from a diverse, ever-growing list of industries. We work with small startups, hyper-growth companies, and some of the largest enterprises.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset with experience in both front-end and back-end technologies. However, the job description requires experience in specific systems and applications, which is not highlighted in the resume. Additionally, the candidate's professional experience is not directly related to software engineering, although they have completed a certificate program in full-stack software engineering. Overall, the candidate shows potential but may not be the best fit for the Jr. Software Engineer position based on the job description."
+  },
+  {
+    "url": "https://startup.jobs/junior-software-development-engineer-frontend-remote-chile-colombia-costa-rica-mexico-peru-offerup-4398602",
+    "response": {
+      "job_location": "Remote, Chile, Colombia, Costa Rica, Mexico, Peru",
+      "job_title": "Junior Software Development Engineer - Frontend",
+      "job_description": "As a Software Development Engineer you will be responsible for developing and deploying multiple features with high operational excellence. Your responsibilities will include everything from design, writing well-architected and thoroughly tested code to rolling out the feature by analyzing metrics. You also get to take ownership beyond your technical area by working with cross-functional team members, and helping set up good coding patterns.",
+      "company_description": "OfferUp is dedicated to changing the way people buy and sell in their communities. As the largest mobile marketplace for local buyers and sellers in the U.S., the company offers iOS and Android apps that make selling an item as easy as snapping a picture from your mobile device. Founded in April 2011, OfferUp is reinventing local commerce by helping consumers uncover value through simplicity and trust. In 2020, OfferUp combined with letgo to reach more than 20M monthly users.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset with experience in both frontend and backend technologies. However, the job description emphasizes high operational excellence and the ability to work with cross-functional team members, which is not highlighted in the candidate's project experience. Additionally, while the candidate has experience as a lead software engineering immersive resident, there is no mention of experience working in a junior role. Overall, the candidate's resume is impressive but does not perfectly align with the job description."
+  },
+  {
+    "url": "https://apply.workable.com/devpro/j/EA97B24C54/apply/",
+    "response": {
+      "job_location": "remoteWrocław, Lower Silesian Voivodeship, Poland",
+      "job_title": "Junior Software Engineer (Angular, Node.js) - OP01042",
+      "job_description": null,
+      "company_description": "Dev.Pro is a US-based outsource software development company with 9+ years’ experience. A high level of technical knowledge (25% of our developers are Senior) as well as communication and visibility are Dev-Pro’s main values.",
+      "compensation": null
+    },
+    "grade": 60,
+    "reasoning": "The candidate has a strong technical skillset, but the job title and description are for a Junior Software Engineer with experience in Angular and Node.js. The candidate's resume does not mention Angular specifically, and while they do have experience with Node.js, it is not highlighted as a primary skill. Additionally, the job description is missing, so it is difficult to determine if the candidate's experience aligns with the requirements of the role. Therefore, the candidate receives a score of 60."
+  },
+  {
+    "url": "https://apply.workable.com/accessorypower/j/A73040555D/",
+    "response": {
+      "job_location": "Westlake Village, California, United States",
+      "job_title": "Logistics Manager",
+      "job_description": "null",
+      "company_description": "Founded in 1980, Accessory Power has grown into a global manufacturer and distributor of Headphones, Gaming Accessories, Speaker Systems, Cases and other electronic accessories for Cameras, Tablets, Gaming, Laptop Computers, and Smartphones. Headquartered in Westlake Village, California, with global offices throughout Europe, Hong Kong and China, and with distribution to major retailers world-wide, Accessory Power has established itself as an industry leader providing unsurpassed high-quality product, technical know-how, and impressive packaging and marketing support across all of our major brands. The Accessory Power team is comprised of tech-savvy, bright, energetic, creative, and enthusiastic professionals from around the US and across the globe. If you believe you have what it takes to join our team and do amazing things as a part of our family please checkout some of our available Employment Opportunities.",
+      "compensation": null
+    },
+    "grade": 60,
+    "reasoning": "The candidate has a strong technical background with experience in full-stack software engineering and management tools such as Agile and Scrum. However, the candidate's resume does not demonstrate any experience or skills related to logistics management, which is the job title. Therefore, the candidate receives a low score of 60."
+  }
+]

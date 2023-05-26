@@ -18,6 +18,7 @@ async function makeRequest(data) {
     try {
       const result = await axios.post(apiUrl, data, { headers });
       backoffTime = 2000; // reset backoff time if request is successful
+      await new Promise((resolve) => setTimeout(resolve, 20));
       return result.data.choices[0].message.content;
     } catch (error) {
       console.log(
@@ -32,7 +33,6 @@ async function makeRequest(data) {
 }
 
 const parseJobInformation = async (scrapedText) => {
-  console.log(`Parsing job information...`);
   const data = {
     model: "gpt-3.5-turbo",
     messages: [
@@ -53,7 +53,6 @@ const parseJobInformation = async (scrapedText) => {
 };
 
 const rankJobsByRelevance = async (job_title, job_description) => {
-  console.log(`Ranking jobs by relevance...`);
   const data = {
     model: "gpt-3.5-turbo",
     messages: [
@@ -64,7 +63,7 @@ const rankJobsByRelevance = async (job_title, job_description) => {
       },
       {
         role: "user",
-        content: `Grade this candidates resume based on the job title and job description. Your response should be an integer between 1 - 100. \n\nJob title: ${job_title}\n\n Job description: ${job_description}\n\n My resume:${resume}`,
+        content: `Grade this candidates resume based on the job title and job description. Your response should be an integer between 1 - 100.\n\nJob title: ${job_title}\n\n Job description: ${job_description}\n\n Candidate's resume:${resume}`,
       },
       {
         role: "user",

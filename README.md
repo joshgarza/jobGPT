@@ -4,7 +4,7 @@ Personalized job board that scrapes job listings and sorts them based on relevan
 
 # To run:
 
-Update search term and site to search in processJobs.js
-run `node processJobs.js`
+Update search term and site to search in main.js
+run `node main.js`
 
 Output will be a list of JSON objects sorted by ranking system.

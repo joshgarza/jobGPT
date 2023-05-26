@@ -1,0 +1,215 @@
+[
+  {
+    "url": "https://startup.jobs/junior-software-engineer-ai-enhanced-full-stack-javascript-magic-2-4334642",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Junior Software Engineer - AI Enhanced (Full Stack Javascript)",
+      "job_description": "We are seeking an innovative and motivated Junior AI-Enhanced Full Stack Engineer to join our team. In this role, you will work closely with GPT-4 AI technology to develop, debug, and maintain high-quality web applications, while using AI to receive guidance and support. You will collaborate with other engineers on the team, but will heavily leverage GPT-4 type technologies in your role. The ideal candidate will be a quick learner, have a strong understanding of full stack JavaScript technologies, and be comfortable leveraging advanced AI systems for improved efficiency and problem-solving.",
+      "company_description": "Magic is a frictionless way to plug in thoroughly vetted, cost-effective remote workers, to help scale your key business functions. Through a combination of automation and active work, we tap into our network of vetted remote workers who handle tasks from virtual assistance and customer service to sales lead generation and scheduling across various team members--like magic. TL;DR: Forget the job boards, or marketplaces, and let us handle the vetting process so you'll only interact with the best, and most reliable remote workers, every time.",
+      "compensation": null
+    },
+    "grade": 75,
+    "reasoning": "The candidate has a strong technical background with experience in full stack JavaScript technologies, which aligns with the job description. However, there is no mention of experience with AI technologies, which is a key requirement for the role. Additionally, while the candidate has experience with testing and deployment tools, there is no mention of experience with GPT-4 type technologies, which is a key aspect of the role. Overall, the candidate's resume is impressive, but does not fully align with the job description."
+  },
+  {
+    "url": "https://apply.workable.com/devpro/",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Intermediate Test Engineer",
+      "job_description": "We are looking for an Intermediate Test Engineer to join our team. You will be responsible for testing software applications and ensuring they meet the requirements and quality standards of our clients. This is a remote position.",
+      "company_description": "Dev.Pro is a US-based outsource software development company that has been delivering exceptional software experience to our clients since 2011. We offer challenging and interesting projects with world-leading clients, a modern technology stack, and career opportunities for both technical and non-technical specialists. We focus on personal and professional development, openness and support, and a culture of growth.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset and relevant project experience, but their professional experience is not directly related to the job title and description. Additionally, there is no mention of experience with software testing specifically, which is a key requirement for the role. While the candidate's experience as a lead software engineering immersive resident is impressive, it does not demonstrate a focus on testing. Therefore, the candidate receives a score of 65."
+  },
+  {
+    "url": "https://apply.workable.com/breederdao/j/B49FDFB4B9/",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Game UI/UX Designer",
+      "job_description": "BreederDAO is seeking a Game UI/UX Designer to join our team. In this role, you will be responsible for designing and implementing user interfaces and user experiences for our play-to-earn digital assets in the metaverse. You will work closely with our game developers and product managers to create engaging and intuitive interfaces that enhance the player experience. The ideal candidate has experience designing interfaces for games or other interactive digital products, as well as a passion for blockchain and the metaverse.",
+      "company_description": "BreederDAO is an early-stage blockchain startup focused on breeding, crafting, and creating the best play-to-earn digital assets in the metaverse. We are backed by the biggest names in the Play-to-Earn space, including a16z, Delphi Digital, IVC, and Mentha Mechanism Capital, among others.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate's resume shows experience in full-stack software engineering, but lacks specific experience in game UI/UX design. While the candidate's technical skills are impressive, they do not directly align with the requirements of the job description. Additionally, there is no mention of blockchain or the metaverse in the candidate's resume, which is a key requirement for the position. Therefore, the candidate receives a low score of 65."
+  },
+  {
+    "url": "https://apply.workable.com/european-dynamics/j/20027785A2/",
+    "response": {
+      "job_location": "Remote/Thessaloniki",
+      "job_title": "Junior Java Developer / DevOps Engineer",
+      "job_description": "We currently have a vacancy for a Junior Java Developer / DevOps Engineer, to join our expanding development team in Thessaloniki or to work fully remotely. The candidate will join a software development team that uses cutting-edge technologies to implement challenging IT software projects, for major international public organizations. The candidates will receive adequate training and support to develop their career expectations.",
+      "company_description": "EUROPEAN DYNAMICS (ED) (www.eurodyn.com) is a leading European Software, Information and Communication Technologies company, operating internationally (Athens, Brussels, Luxembourg, Copenhagen, Berlin, Stockholm, London, Nicosia, Valetta, Vienna, Den Haag, Hong Kong, etc.) The company employs over 1000 engineers, IT experts and consultants (around 3% PhD, 36% MSc and 53% BSc). We design and develop software applications using integrated, state-of-the-art technology. Our current IT projects have a value exceeding 300 million EURO. EUROPEAN DYNAMICS is a renowned supplier of IT services to European Union Institutions, international organizations, European Agencies and national government Administrations in 40 countries and 4 continents.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "While the candidate has a strong technical skillset, their experience does not align perfectly with the job description. They have experience as a Full Stack Software Engineer and Lead Software Engineering Immersive Resident, but the job description is for a Junior Java Developer / DevOps Engineer. Additionally, while the candidate has experience with AWS, they do not have experience with DevOps tools such as Jenkins or Ansible. Overall, the candidate's resume is impressive, but not a perfect fit for the job description."
+  },
+  {
+    "url": "https://startup.jobs/junior-software-engineer-dropbox-2299284",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Junior Software Engineer",
+      "job_description": "Creating elegant products begins with lots of prototyping and iteration to explore the problem space. We care deeply about collaboration and feedback during the development process. It culminates in careful attention to edge cases and error handling, polished code, and great tests to ensure that we ship a reliable product that never compromises data integrity or security.\n\nAs a Junior Software Engineer, you will combine learning with immense impact. You will feel this impact from week one - yes, you will contribute code on your own during your first week! \n\nYour development and success starts with our engineering on-boarding program, working closely with your dedicated mentor and engineering lead, as well as collaborating with experienced engineers across Dropbox. In addition, we have created many company-wide learning and development events and programs to help supplement your learning.\n\nResponsibilities\n\nAs a Junior Software engineer, there are multiple types of roles and teams you may be a good fit for at Dropbox. Here are some examples of roles and teams that you can have an impact on:\n\nProduct Engineering- Build delightful full-stack user experiences that tackle real customer needs and help drive tons of revenue for Dropbox. As a product engineering intern you can expect to work across backend, API, desktop, mobile and web.\n\nInfrastructure Engineering- Craft the building blocks that let us scale Dropbox to handle millions of concurrent connections, hundreds of billions of files, and hundreds of petabytes of data.\n\nAnalytics Engineering- Measure, optimize, and build one of the industry’s most advanced analytics platforms to derive insights from vast amounts of data. Our massive scale means you’ll work with more data than many other analytics firms combined.\n\nMobile Engineering- Craft the Dropbox client experience on mobile devices by learning and applying the ins and outs of iOS and Android SDK using Kotlin and Swift. You are also responsible for building the backend systems that power the mobile experiences and optimize the protocol between client and server for reliability, efficiency and speed.\n\nFront End Engineering- Help keep our websites up and running by applying everything our application engineers do with the curiosity and interest in building fast, scalable, and responsive Dropbox experiences for the modern web, using technologies like Typescript, React, and Redux. \n\nSite Reliability Engineering (SRE)- Build the software and automation that controls the hardware to run our products. Work with a team who lives on the boundary of software and hardware and develop a deep understanding of the inner workings of our products, our commitment to ensuring our products work well on real-world hardware in our data centers, and serve as the first line of defense when something goes with our production infrastructure or services.\n\nSecurity Engineering- People trust Dropbox to keep their data secure, and at Dropbox we rely on our security engineers to make our products safe. You are a software engineer with a deep interest in building software that is secure yet easy to use. Security engineers collaborate with product teams to secure our software, production infrastructure, website, desktop and mobile apps and our corporate infrastructure and devices.\n\nMinimum Qualifications\n\n0-2 years of full-time software development experience\nAvailable for immediate start (recent 2022 graduates welcome!) \n\nExperience writing or shipping software as part of full-time work, college/bootcamp coursework, personal projects, internships, coding competitions or research\n\nPassion for learning, solving problems, and challenging the status quo\n\nTotal Rewards\n\nFor candidates hired in Colorado, the expected salary/On-Target Earnings (OTE) rate for the role is $8,400/mo, subject to change.\n\nSalary/OTE is just one component of Dropbox’s total rewards package. Dropbox is committed to investing in the holistic health and wellbeing of all Dropboxers and their families.  Our benefits and perks programs include: \n\nCompetitive medical, dental and vision coverage\n\nFlexible Time Off/Paid Time Off, paid holidays, Company-wide PTO days, Volunteer time off\n\nPerks Allowance to be used on what matters most to you, whether that’s productivity, learning & development, wellness, co-working space\n\nAdditional benefits details are available upon request.  \n",
+      "company_description": "Dropbox is a technology company that builds simple, powerful products for people and businesses. 500 million people around the world use Dropbox to work the way they want, on any device, wherever they go. With 200,000 businesses on Dropbox Business, we’re transforming everyday workflows and entire industries.\n\nWe create products that are easy to use and are built on trust. When people put their files in Dropbox, they can trust they’re secure and their data is their own. Our users’ privacy has always been our top priority, and it always will be.\n\nWe’re headquartered in San Francisco, with offices in cities across the United States, Europe, Asia, and Australia. Learn more about our mission at dropbox.com.",
+      "compensation": {
+        "salary": null,
+        "total_rewards": {
+          "medical_coverage": "Competitive",
+          "dental_coverage": "Competitive",
+          "vision_coverage": "Competitive",
+          "time_off": "Flexible Time Off/Paid Time Off, paid holidays, Company-wide PTO days, Volunteer time off",
+          "perks_allowance": "To be used on what matters most to you, whether that’s productivity, learning & development, wellness, co-working space",
+          "additional_details": "Additional benefits details are available upon request."
+        }
+      }
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset and relevant project experience, but their professional experience is not directly related to software engineering. Additionally, while they have experience with some of the technologies mentioned in the job description, they do not have experience with all of them. Overall, the candidate shows potential but may not be the best fit for the Junior Software Engineer role at Dropbox."
+  },
+  {
+    "url": "https://startup.jobs/junior-software-engineer-ozow-2714321",
+    "response": {
+      "job_location": "Cape Town, Johannesburg or Remote",
+      "job_title": "Junior Software Engineer",
+      "job_description": "Ozow is looking for a Junior Software Engineer, to collaborate with other developers in writing well-designed, testable code. You will be working with a team of passionate technology professionals, developing with modern technologies, and solving tough problems.",
+      "company_description": "Ozow provides easy, fast, and secure payment solutions for everyone. From QR codes, point of sale, eCommerce, e-billing, peer-to-peer payments, and everything in between, Ozow helps millions of businesses and consumers to pay and get paid. We’re addressing real needs. We’re a hyper-scaling fintech. With our latest $48m Series B funding round led by Tencent, we are able to do even more.",
+      "compensation": null
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset with experience in both front-end and back-end technologies. However, the job description emphasizes collaboration and problem-solving, and the candidate's experience is primarily focused on individual projects. Additionally, while the candidate has experience as a lead software engineering immersive resident, there is no mention of experience working in a team environment. Overall, the candidate's technical skills are impressive, but their experience may not align perfectly with the job description."
+  },
+  {
+    "url": "https://startup.jobs/front-end-junior-software-engineer-littera-education-4128870",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Front End Junior Software Engineer",
+      "job_description": "This role is working in an Agile team environment where you'll participate in the full software development lifecycle. This involves working with business stakeholders to refine their ideas, coding, testing, and delivering reliable software that delights our customers.",
+      "company_description": "Littera Education is a software platform designed to help K-12 schools and districts design, deliver, and monitor their tutoring programs. Our team is rapidly growing and we're looking for people wanting to get engaged in solving tough problems.",
+      "compensation": {
+        "salary_range": "$70,000-$100,000",
+        "benefits": [
+          "Medical, dental and vision",
+          "Paid Parental Leave",
+          "Unlimited PTO",
+          "Equity in the company",
+          "401k",
+          "Annual WFH stipend"
+        ]
+      }
+    },
+    "grade": 65,
+    "reasoning": "The candidate has a strong technical skillset with experience in both front-end and back-end technologies. However, the job description specifically mentions working in an Agile team environment and collaborating with business stakeholders, and the candidate's resume does not provide much information on their experience in these areas. Additionally, while the candidate has experience as a lead software engineering immersive resident, there is no mention of experience working as a junior software engineer. Overall, the candidate's technical skills are impressive, but their fit with the job description is not perfect."
+  },
+  {
+    "url": "https://startup.jobs/dovenmuehle-mortgage-jr-software-engineer-us-citizens-direct-hire-remote-braintrust-4237586",
+    "response": {
+      "job_location": "Remote - United States only",
+      "job_title": "Jr. Software Engineer",
+      "job_description": "DMI Software, the San Francisco branch of Dovenmuehle Mortgage, Inc, the leading sub-servicer of mortgage loans in the United States, is looking for a talented and enthusiastic Senior Software Engineer. We work exclusively in Software Development. Our growing office offers the feel of a startup with the backing and security of a long-established company.",
+      "company_description": "Braintrust is a user-owned talent network that connects you with great jobs with no fees or membership costs—so you keep 100% of what you earn.",
+      "compensation": "$110,000 – $125,000/yr"
+    },
+    "grade": 60,
+    "reasoning": "The candidate has a strong technical skillset, but their experience is not a good match for the job description. The job description is for a Senior Software Engineer, but the candidate is applying for a Jr. Software Engineer position. Additionally, the candidate's professional experience is not in software engineering, but rather in coaching and personal training. While the candidate's experience in coaching and personal training is impressive, it is not relevant to the job they are applying for."
+  },
+  {
+    "url": "https://startup.jobs/junior-technical-project-manager-software-engineering-securly-4369999",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Project Coordinator / Junior Project Manager",
+      "job_description": "As Securly’s Junior Project Manager, you will work with the a Senior Technical project manager and assist in planning, executing, and monitoring software projects. Our products not only help keep students safe online but also save student lives. At Securly, we believe in a philosophy of \"Enable Everyone\". This role involves working cross-functionally with a team of engineers, architects, designers, and testers who build this safety net and execute the company's vision.",
+      "company_description": "Recognized as Top Places to Work 3 years in a row. Product of the 3 years in a row. Securly One Page. 45-second cloud product demo. Innovation - Our innovative products and talented people have; Established Securly in over 20% of the US market and growing rapidly internationally. Implemented Securly into 15,000+ schools. Monitored more than 5+ billion online activities. Revolutionized student wellness and school safety for more than 10+ million children. Saved the lives of more than 1600+ children.",
+      "compensation": null
+    },
+    "grade": 60,
+    "reasoning": "The candidate has a strong technical background and experience as a Lead Software Engineering Immersive Resident. However, the job description requires experience in project management, which is not highlighted in the resume. Additionally, the candidate's project experience does not directly align with the job description. Therefore, the candidate receives a low score of 60."
+  },
+  {
+    "url": "https://startup.jobs/junior-software-engineer-haskell-plutus-tools-squad-io-global-4225885",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Junior Software Engineer (Haskell - Plutus Tools Squad)",
+      "job_description": "The Plutus Apps team builds the core components for writing and executing smart contracts on the Cardano network, as well as maintaining libraries and integrations with community-developed projects.The Plutus Tools team is responsible for helping the community write applications on the Cardano blockchain. Our work includes the PAB, the plutus-starter project, and documentation around how to write and structure smart contract applications. We also support both internal and external projects through our open-source workflows. The Plutus and Plutus Tools team are working together to build the core of Cardano’s smart contract functionality on the bedrock of functional programming languages. This interdisciplinary team carries out original R&D and turns the results into production systems. As a Haskell Engineer you are responsible for writing high-quality code. To support you, our products have software architects, product managers, project managers, formal methods specialists, and QA test engineers, with whom you must communicate professionally, effectively, and efficiently.",
+      "company_description": "IO Global is a distributed organization and therefore this is a remote position.",
+      "compensation": null
+    },
+    "grade": 50,
+    "reasoning": "The candidate has a strong background in full-stack development, but lacks experience with Haskell and functional programming languages, which are essential for the Junior Software Engineer role in the Plutus Tools Squad. Additionally, the candidate's project experience does not demonstrate a clear alignment with the job description. Therefore, the candidate receives a low score of 50."
+  },
+  {
+    "url": "https://startup.jobs/junior-accountant-roles-at-yipitdata-4303055",
+    "response": {
+      "job_location": "Remote",
+      "job_title": "Junior Accountant",
+      "job_description": "YipitData is looking for an experienced Staff Accountant to join our Finance team. This is a unique opportunity to work at a high-growth FinTech company with entrepreneurial yet supportive colleagues!...",
+      "company_description": "YipitData is the leading market research and analytics firm for the disruptive economy and recently raised up to $475M from The Carlyle Group at a valuation over $1B. We analyze billions of alternative data points every day to provide accurate, detailed insights on ridesharing, e-commerce marketplaces, payments and more...",
+      "compensation": {
+        "annual_base_salary": 70000,
+        "other_compensation": "Our compensation package includes comprehensive benefits, perks, and a competitive salary: We care about your personal life and we mean it. We offer flexible work hours, flexible vacation, a generous 401K match, parental leave, team events, wellness budget, learning reimbursement, and more!"
+      }
+    },
+    "grade": 50,
+    "reasoning": "The candidate's resume shows experience as a Full Stack Software Engineer, Lead Software Engineering Immersive Resident, Virtual Strength Coach, and Founder & Owner of a personal training studio. However, there is no mention of any accounting experience or education. While the candidate's technical skills are impressive, they do not align with the job description for a Junior Accountant. Therefore, the candidate receives a low score of 50."
+  },
+  {
+    "url": "https://apply.workable.com/maveriscareers/j/AAF941F561/",
+    "response": {
+      "job_location": "remote",
+      "job_title": "Cybersecurity Engineer - Junior",
+      "job_description": "Maveris is seeking a Cyber Security Engineer - Junior to join our elite and growing team. The Cyber Security Engineer will support a large Federal Government customer in the analysis and improvement of the customer’s Information Technology organization. Cyber Security Engineers ensure our customer’s software, hardware and overall computer systems are secured and protected from cyber-attacks. You’ll utilize best-practices and standards described in NIST’s Risk Management Framework (RMF) and Cyber Security Framework (CSF) to ensure new and existing systems are adhering to all required security controls, free of high risk vulnerabilities, and hardened against cyber threats.    Veterans encouraged to apply.",
+      "company_description": "Maveris offers exceptional, mission-focused, solutions to organizations facing highly complex IT, digital, and cybersecurity challenges. Our success is achieved by maintaining an environment of trust where people are encouraged to reach their fullest potential. Every candidate that applies to Maveris brings something unique to the table, and because our team is diverse, we consistently meet our goals and exceed client expectations. If you are a highly-motivated person with a willingness to learn, we invite you to apply today to join our team!",
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "The candidate's technical skills and project experience are impressive, but they do not have any experience or skills related to cybersecurity. Therefore, they do not meet the requirements for the Cybersecurity Engineer - Junior position. The resume is graded low because the fit with the job description is not perfect."
+  },
+  {
+    "url": "https://startup.jobs/@fulfil-solutions",
+    "response": {
+      "job_location": "Mountain View, California, U.S.",
+      "job_title": "Fulfillment Associate",
+      "job_description": null,
+      "company_description": "Fulfil Solutions",
+      "compensation": null
+    },
+    "grade": 60,
+    "reasoning": "The candidate has a strong technical background with experience in both front-end and back-end technologies. However, the candidate's experience and projects are not directly related to the job title and job description of Fulfillment Associate. Additionally, the job description is missing, making it difficult to assess the candidate's fit for the role. Therefore, the candidate receives a score of 60."
+  },
+  {
+    "url": "https://hired.com/job/junior-project-manager-cisco",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Junior Project Manager",
+      "job_description": "Cisco Cloud Security Group is a leading provider of Cloud Security and DNS services, enabling the world to connect to the Internet with confidence on any device, anywhere, anytime.",
+      "company_description": "Cisco is a global company that designs and sells a broad range of technologies across networking, security, collaboration, applications, and the cloud.",
+      "compensation": null
+    },
+    "grade": 45,
+    "reasoning": "While the candidate has a strong technical background, their experience does not align with the job description for a Junior Project Manager in the Cloud Security industry. Additionally, their project experience is focused on software engineering rather than project management. Therefore, the candidate receives a low score of 45."
+  },
+  {
+    "url": "https://hired.com/job/software-engineer-front-end-growth-grammarly",
+    "response": {
+      "job_location": "San Francisco, CA",
+      "job_title": "Software Engineer, Front-End (Growth)",
+      "job_description": "We're looking for an exceptional, experienced Software Engineer, Front-End to create, contribute to, and lead the Growth team's frontend engineering work by taking ownership of Grammarly's main website for user acquisition and blogging infrastructure.",
+      "company_description": "Grammarly is a provider of an English language writing-enhancement platform.",
+      "compensation": null
+    },
+    "grade": 75,
+    "reasoning": "The candidate has a strong technical skillset with experience in React, Next.js, NodeJS, Express, and AWS. However, the candidate's project experience does not directly align with the job description, and there is no mention of experience with user acquisition or blogging infrastructure. Additionally, while the candidate has experience leading and supervising junior engineers, there is no mention of experience leading a team in a growth-focused role. Overall, the candidate's technical skills are strong, but there are some gaps in their experience that may make them less suitable for this specific role.",
+    "resume_prompts": {
+      "0": "You are an expert resume writer with over 20 years of experience working with job seekers trying to land a role in the tech industry. Highlight the 3 most important responsibilities in this job description: We're looking for an exceptional, experienced Software Engineer, Front-End to create, contribute to, and lead the Growth team's frontend engineering work by taking ownership of Grammarly's main website for user acquisition and blogging infrastructure.",
+      "1": "Based on these 3 most important responsibilities from the job description, please tailor my resume for this Software Engineer, Front-End (Growth) position at [[INSERT COMPANY NAME]]. Do not make information up. Here's my resume: [[INSERT RESUME]]",
+      "2": "List out the differences between my original resume and your suggested draft in table format with 2 columns: Original and Updated. Be specific and list out exactly what was changed, down to the exact wording."
+    },
+    "cover_letter_prompts": {
+      "0": "Based on this job description, what is the biggest challenge someone in this position would face day-to-day? Give me the root cause of this issue. We're looking for an exceptional, experienced Software Engineer, Front-End to create, contribute to, and lead the Growth team's frontend engineering work by taking ownership of Grammarly's main website for user acquisition and blogging infrastructure.",
+      "1": "You are currently working as a Full Stack Software Engineer in the tech industry and you're applying for this Software Engineer, Front-End (Growth) position at [[INSERT COMPANY NAME]]. Write an attention-grabbing hook for your cover letter that highlights your experience and qualifications in a way that shows you empathize and can successfully take on the challenges of the Software Engineer, Front-End (Growth) role. Consider incorporating specific examples of how you've tackled these challenges in your past work, and explore creative ways to express your enthusiasm for the opportunity. Keep your hook within 100 words",
+      "2": "You are writing a cover letter applying for the Software Engineer, Front-End (Growth) role at [[INSERT COMPANY NAME]]. Here's what you have so far: [[INSERT HOOK RESPONSE]] - Finish writing the cover letter based on your resume and keep it within 250 words. Here’s your resume: [[INSERT RESUME]]"
+    }
+  }
+]
